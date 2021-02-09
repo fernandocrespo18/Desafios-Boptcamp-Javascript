@@ -1,5 +1,5 @@
 
-let numero = Array(5);
+let numero = Array(-5, 0, -3, -4, 12);
 
 
 for(let i =0 ; i <= numero; i++){
